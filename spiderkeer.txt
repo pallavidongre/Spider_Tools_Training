@@ -2,3 +2,5 @@
 Eat 
 Sleep
 Code
+Paint
+Play
